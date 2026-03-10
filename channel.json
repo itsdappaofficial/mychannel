@@ -1,10 +1,10 @@
 [
-  "120363418583467337@newsletter",
-  "120363422548077497@newsletter", 
-  "120363424596020997@newsletter",
-  "120363419296607900@newsletter", 
-  "120363418300642134@newsletter", 
-  "120363405696390158@newsletter", 
-  "120363405939091122@newsletter", 
-  "120363408632030039@newsletter"
+  { "id": "120363418583467337@newsletter", "desc": "" },
+  { "id": "120363422548077497@newsletter", "desc": "" },
+  { "id": "120363424596020997@newsletter", "desc": "" },
+  { "id": "120363419296607900@newsletter", "desc": "" },
+  { "id": "120363418300642134@newsletter", "desc": "" },
+  { "id": "120363405696390158@newsletter", "desc": "" },
+  { "id": "120363405939091122@newsletter", "desc": "" },
+  { "id": "120363408632030039@newsletter", "desc": "" }
 ]
