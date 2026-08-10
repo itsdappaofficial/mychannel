@@ -1,9 +1,4 @@
 [
-  { "id": "120363418583467337@newsletter", "desc": "permanent" },
-  { "id": "120363422548077497@newsletter", "desc": "permanent" },
-  { "id": "120363424596020997@newsletter", "desc": "permanent" },
-  { "id": "120363419296607900@newsletter", "desc": "permanent" },
-  { "id": "120363418300642134@newsletter", "desc": "permanent" },
   { "id": "120363405696390158@newsletter", "desc": "permanent" },
   { "id": "120363405939091122@newsletter", "desc": "permanent" },
   { "id": "120363408632030039@newsletter", "desc": "permanent" }, 
@@ -32,5 +27,6 @@
   { "id": "120363424466255203@newsletter", "desc": "punya si fafaw" },
   { "id": "120363430794309306@newsletter", "desc": "punya si linn" }, 
   { "id": "120363426504084967@newsletter", "desc": "punya si Reyna" },
-  { "id": "120363276844708110@newsletter", "desc": "punya si raira" }
+  { "id": "120363276844708110@newsletter", "desc": "punya si raira" },
+  { "id": "120363404743824475@newsletter", "desc": "punya si agung" }
 ]
